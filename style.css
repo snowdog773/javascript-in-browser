@@ -1,0 +1,14 @@
+body {
+    background: cyan;
+}
+
+button {
+    display: block;
+    margin: 100px auto;
+}
+
+img {
+    max-width: 300px;
+    display: block;
+    margin: 20px auto;
+}
